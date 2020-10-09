@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 28 09:39:37 2020
 
-@author: Solen
+
 """
 
 
